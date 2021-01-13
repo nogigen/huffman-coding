@@ -1,0 +1,6 @@
+The number of bits in the initial message is : 368
+The number of bits in the encrypted message is : 95
+The number of bits needed for the create the translation table is : 253
+So, total bits needed to do this encryption is : 348
+compression ratio is 1.057471 
+space saving is 0.054348
